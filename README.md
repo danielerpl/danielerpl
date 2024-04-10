@@ -7,10 +7,12 @@ I am a Freelance Senior Mobile Developer mainly working on iOS stuff written in 
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/danielerapali/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]()
+[<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.danielerapali.com&up_message=danielerapali&up_color=blue&style=for-the-badge&label=%F0%9F%8C%8E">
+]()
+<!--[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]()
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />]()
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]()
-
+-->
 
 <!--
 <br>
